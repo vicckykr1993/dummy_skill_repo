@@ -5,17 +5,16 @@ description : Writes pull request descriptions. Use when creating a PR, or when 
 
 When writting a PR description:
 
-1. run `git diff main...HEAD`  to see all changes to this branch
+1. run `git diff main...HEAD` to see all changes to this branch
 2. write a description follwing this format.
 
-##What
-Reorganize skill structure by moving pr-description skill to .github/skills/pr-description directory.
+## What
+one sentence explaining what this PR does.
 
-##Why 
-This change centralizes all skill definitions in the .github/skills directory for better organization and maintainability. It follows a consistent directory structure where each skill has its own dedicated folder.
+## Why 
+Brief context on why this change is needed
 
-###changes
-- Includes guidance on writing PR descriptions with a structured format (What/Why/Changes)
-- Provides instructions for running `git diff main...HEAD` to review changes
-- Defines the template format for consistent PR descriptions
-
+## Changes
+- Bullet points of specific changes made
+- Group related changes together
+- Mention any files deleted or renamed
