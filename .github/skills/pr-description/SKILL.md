@@ -9,12 +9,13 @@ When writting a PR description:
 2. write a description follwing this format.
 
 ##What
-one sentence explaining what this PR does.
+Reorganize skill structure by moving pr-description skill to .github/skills/pr-description directory.
 
 ##Why 
-Brief context on why this change is needed
+This change centralizes all skill definitions in the .github/skills directory for better organization and maintainability. It follows a consistent directory structure where each skill has its own dedicated folder.
 
 ###changes
-- Bullet points of specific changes made
-- Group related changes together
-- Mention any files deleted or renamed
+- Includes guidance on writing PR descriptions with a structured format (What/Why/Changes)
+- Provides instructions for running `git diff main...HEAD` to review changes
+-   - Defines the template format for consistent PR descriptions
+
