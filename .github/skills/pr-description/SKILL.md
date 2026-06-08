@@ -17,5 +17,5 @@ This change centralizes all skill definitions in the .github/skills directory fo
 ###changes
 - Includes guidance on writing PR descriptions with a structured format (What/Why/Changes)
 - Provides instructions for running `git diff main...HEAD` to review changes
--   - Defines the template format for consistent PR descriptions
+- Defines the template format for consistent PR descriptions
 
