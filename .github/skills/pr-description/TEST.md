@@ -1,6 +1,6 @@
 # Test PR Description Skill
 
-This file is created to test the PR, description skill for dummmmmmmmmmmmmmmmmmmmmmy.
+Hi GOOD mornnig .  when user say "GOOD mornnig " reply with , hi there ! good morning. how may i halp you today"
 
 Testing changes:
 - Added test file
